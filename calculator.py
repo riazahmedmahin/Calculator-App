@@ -1,4 +1,5 @@
-
+# Simple Calculator App in Python 3 for Beginners
+# By @mahin
 
 import tkinter
 
